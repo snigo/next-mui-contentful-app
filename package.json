@@ -1,0 +1,10 @@
+{
+  "name": "next-mui-contentful-app",
+  "version": "1.0.0",
+  "description": "Simple app template using Next.js, MUI and Contentful",
+  "main": "index.js",
+  "repository": "git@github.com:snigo/next-mui-contentful-app.git",
+  "author": "Igor Snitkin <snigo.ogins@gmail.com>",
+  "license": "Apache-2.0",
+  "private": false
+}

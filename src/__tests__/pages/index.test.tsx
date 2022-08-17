@@ -1,6 +1,7 @@
 import { render, screen } from '@testing-library/react';
-import IndexPage from '@internal/pages/index';
 import '@testing-library/jest-dom';
+
+import IndexPage from '@internal/pages/index';
 
 describe('Index page', () => {
   test('renders a heading', () => {
